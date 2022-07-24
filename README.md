@@ -4,6 +4,7 @@
 
 ## Usage
 
+0. Make virtual environment and run `pip install -r requirements.txt`
 1. Download Kaggle dataset to root folder
    `https://www.kaggle.com/datasets/giovamata/airlinedelaycauses`
 2. Run all the cells from `data.ipynb`
